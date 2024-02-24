@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+  
+  <character id = "001">
+    <picture>https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20231010042000</picture>
+    <name>Fanny</name>
+    <health>100</health>
+    <damage>20</damage>
+    <type>Assasin</type>
+    <skills>
+        <firstSkill>Tornado Strike</firstSkill>
+        <secondSkill>Steel Cable</secondSkill>
+        <thirdSkill>Cut Throat</thirdSkill>
+    </skills>
+  </character>
+
+  <character id = "002">
+    <picture>https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20240104090805</picture>
+    <name>Layla</name>
+    <health>50</health>
+    <damage>180</damage>
+    <type>Marksman</type>
+    <skills>
+      <firstSkill>Malefic Bomb</firstSkill>
+      <secondSkill>Void Projectile</secondSkill>
+      <thirdSkill>Destruction Rush</thirdSkill>
+    </skills>
+  </character>
+
+  <character id = "003">
+    <picture>https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20240104090805</picture>
+    <name>Lancelot</name>
+    <health>80</health>
+    <damage>180</damage>
+    <type>Assasin</type>
+    <skills>
+      <firstSkill>Puncture</firstSkill>
+      <secondSkill>Thorned Rose</secondSkill>
+      <thirdSkill>Phantom Execution</thirdSkill>
+    </skills>
+  </character>
+
+  <character id = "004">
+    <picture>https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20220525164605</picture>
+    <name>Rafaela</name>
+    <health>200</health>
+    <damage>10</damage>
+    <type>Support</type>
+    <skills>
+      <firstSkill>Light of Retribution</firstSkill>
+      <secondSkill>Holy Healing</secondSkill>
+      <thirdSkill>Holy Baptism</thirdSkill>
+    </skills>
+  </character>
+
+  <character id = "005">
+  <picture>https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png/revision/latest?cb=20240114021830</picture>
+    <name>Khufra</name>
+    <health>500</health>
+    <damage>10</damage>
+    <type>Tank</type>
+    <skills>
+      <firstSkill>Tyrant's Revenge</firstSkill>
+      <secondSkill>Bouncing Ball</secondSkill>
+      <thirdSkill>Tyrant's Rage</thirdSkill>
+    </skills>
+  </character>
+
+  <character id = "006">
+  <picture>https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20220909095407</picture>
+    <name>Gusion</name>
+    <health>80</health>
+    <damage>150</damage>
+    <type>Assasin</type>
+    <skills>
+      <firstSkill>Sword Spike</firstSkill>
+      <secondSkill>ShadowBlade Slaughter</secondSkill>
+      <thirdSkill>Incandescence</thirdSkill>
+     </skills>
+  </character>
+
+  <character id = "007">
+  <picture>https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png/revision/latest?cb=20240121134111</picture>
+    <name>Kadita</name>
+    <health>60</health>
+    <damage>80</damage>
+    <type>Mage</type>
+    <skills>
+      <firstSkill>Ocean Ode</firstSkill>
+      <secondSkill>Breath of the ocean</secondSkill>
+      <thirdSkill>Rough Waves</thirdSkill>
+    </skills>
+  </character>
+
+  <character id = "008">
+  <picture>https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744</picture>
+    <name>Thamuz</name>
+    <health>200</health>
+    <damage>30</damage>
+    <type>Fighter</type>
+    <skills>
+      <firstSkill>Molten Scythes</firstSkill>
+      <secondSkill>Chasm Trample</secondSkill>
+      <thirdSkill>Cauterant Inferno</thirdSkill>
+    </skills>
+  </character>
+
+  <character id = "009">
+  <picture>https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20231231181124</picture>
+    <name>Miya</name>
+    <health>40</health>
+    <damage>100</damage>
+    <type>Marksman</type>
+    <skills>
+      <firstSkill>Moon Arrow</firstSkill>
+      <secondSkill>Arrow of Eclipse</secondSkill>
+      <thirdSkill>Hidden Moonlight</thirdSkill>
+    </skills>
+  </character>
+
+  <character id = "010">
+  <picture>https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20230224151429</picture>
+    <name>Novaria</name>
+    <health>40</health>
+    <damage>120</damage>
+    <type>Mage</type>
+    <skills>
+      <firstSkill>Astral Meteor</firstSkill>
+      <secondSkill>Astral Recall</secondSkill>
+      <thirdSkill>Astral Echo</thirdSkill>
+    </skills>
+  </character>
+
+</characters>
