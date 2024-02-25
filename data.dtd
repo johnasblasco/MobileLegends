@@ -1,0 +1,12 @@
+<!ELEMENT characters (character+)>
+<!ELEMENT character (picture,name,health,damage,type,skills)>
+<!ATTLIST character id NMTOKEN #REQUIRED>
+<!ELEMENT picture (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT health (#PCDATA)>
+<!ELEMENT damage (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT skills (firstSkill,secondSkill,thirdSkill)>
+<!ELEMENT firstSkill (#PCDATA)>
+<!ELEMENT secondSkill (#PCDATA)>
+<!ELEMENT thirdSkill (#PCDATA)>
