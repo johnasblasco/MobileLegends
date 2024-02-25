@@ -1,135 +1,244 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE characters SYSTEM "data.dtd">
 <characters>
-  
-  <character id = "001">
-    <picture>https://i.pinimg.com/originals/07/8e/d3/078ed3258b1b37c7535ec543ebccd51f.jpg</picture>
-    <name>Fanny</name>
-    <health>100</health>
-    <damage>20</damage>
-    <type>Assasin</type>
-    <skills>
-        <firstSkill>Tornado Strike</firstSkill>
-        <secondSkill>Steel Cable</secondSkill>
-        <thirdSkill>Cut Throat</thirdSkill>
-    </skills>
-  </character>
-
-  <character id = "002">
-    <picture>https://i.pinimg.com/736x/64/39/f5/6439f5134e63ec54e8cf7eaa2eec7fb9.jpg</picture>
-    <name>Layla</name>
-    <health>50</health>
-    <damage>180</damage>
-    <type>Marksman</type>
-    <skills>
-      <firstSkill>Malefic Bomb</firstSkill>
-      <secondSkill>Void Projectile</secondSkill>
-      <thirdSkill>Destruction Rush</thirdSkill>
-    </skills>
-  </character>
-
-  <character id = "003">
-    <picture>https://i.pinimg.com/originals/f2/19/b8/f219b886f31aaddc9738e2507c6c22fc.jpg</picture>
-    <name>Lancelot</name>
-    <health>80</health>
-    <damage>180</damage>
-    <type>Assasin</type>
-    <skills>
-      <firstSkill>Puncture</firstSkill>
-      <secondSkill>Thorned Rose</secondSkill>
-      <thirdSkill>Phantom Execution</thirdSkill>
-    </skills>
-  </character>
-
-  <character id = "004">
-    <picture>https://i.pinimg.com/originals/75/3a/0f/753a0fe32bb9127ed494bd9c7296dd64.jpg</picture>
-    <name>Rafaela</name>
-    <health>200</health>
-    <damage>10</damage>
-    <type>Support</type>
-    <skills>
-      <firstSkill>Light of Retribution</firstSkill>
-      <secondSkill>Holy Healing</secondSkill>
-      <thirdSkill>Holy Baptism</thirdSkill>
-    </skills>
-  </character>
-
-  <character id = "005">
-  <picture>https://i.pinimg.com/originals/bc/5a/63/bc5a639f45c1c15e0af697de203f2e54.jpg</picture>
-    <name>Khufra</name>
-    <health>500</health>
-    <damage>10</damage>
-    <type>Tank</type>
-    <skills>
-      <firstSkill>Tyrant's Revenge</firstSkill>
-      <secondSkill>Bouncing Ball</secondSkill>
-      <thirdSkill>Tyrant's Rage</thirdSkill>
-    </skills>
-  </character>
-
-  <character id = "006">
-  <picture>https://i.pinimg.com/564x/a0/6a/86/a06a86c29d4e1e1ca7cf3ec2bf35c38c.jpg</picture>
-    <name>Gusion</name>
-    <health>80</health>
-    <damage>150</damage>
-    <type>Assasin</type>
-    <skills>
-      <firstSkill>Sword Spike</firstSkill>
-      <secondSkill>ShadowBlade Slaughter</secondSkill>
-      <thirdSkill>Incandescence</thirdSkill>
-     </skills>
-  </character>
-
-  <character id = "007">
-  <picture>https://i.pinimg.com/736x/94/85/08/9485085ffc4a48343268c32375044451.jpg</picture>
-    <name>Kadita</name>
-    <health>60</health>
-    <damage>80</damage>
-    <type>Mage</type>
-    <skills>
-      <firstSkill>Ocean Ode</firstSkill>
-      <secondSkill>Breath of the ocean</secondSkill>
-      <thirdSkill>Rough Waves</thirdSkill>
-    </skills>
-  </character>
-
-  <character id = "008">
-  <picture>https://i.pinimg.com/236x/6b/a9/87/6ba987b405928b555a8422a44d6cc18d.jpg</picture>
-    <name>Zilong</name>
-    <health>200</health>
-    <damage>30</damage>
-    <type>Fighter</type>
-    <skills>
-      <firstSkill>Spear Flip</firstSkill>
-      <secondSkill>Spear Strike</secondSkill>
-      <thirdSkill>Supreme Warrior</thirdSkill>
-    </skills>
-  </character>
-
-  <character id = "009">
-  <picture>https://i.pinimg.com/736x/d1/de/75/d1de75a0dc102dfae7a126c763ec7638.jpg</picture>
-    <name>Miya</name>
-    <health>40</health>
-    <damage>100</damage>
-    <type>Marksman</type>
-    <skills>
-      <firstSkill>Moon Arrow</firstSkill>
-      <secondSkill>Arrow of Eclipse</secondSkill>
-      <thirdSkill>Hidden Moonlight</thirdSkill>
-    </skills>
-  </character>
-
-  <character id = "010">
-  <picture>https://i.pinimg.com/736x/10/74/70/107470b5099b2af4949cbbdb64e8f514.jpg</picture>
-    <name>Novaria</name>
-    <health>40</health>
-    <damage>120</damage>
-    <type>Mage</type>
-    <skills>
-      <firstSkill>Astral Meteor</firstSkill>
-      <secondSkill>Astral Recall</secondSkill>
-      <thirdSkill>Astral Echo</thirdSkill>
-    </skills>
-  </character>
-
+	<character id = "001">
+		<picture>https://i.pinimg.com/originals/07/8e/d3/078ed3258b1b37c7535ec543ebccd51f.jpg</picture>
+		<name>Fanny</name>
+		<health>100</health>
+		<damage>20</damage>
+		<type>Assasin</type>
+		<skills>
+			<firstSkill>Tornado Strike</firstSkill>
+			<secondSkill>Steel Cable</secondSkill>
+			<thirdSkill>Cut Throat</thirdSkill>
+		</skills>
+	</character>
+	<character id = "002">
+		<picture>https://i.pinimg.com/736x/64/39/f5/6439f5134e63ec54e8cf7eaa2eec7fb9.jpg</picture>
+		<name>Layla</name>
+		<health>50</health>
+		<damage>180</damage>
+		<type>Marksman</type>
+		<skills>
+			<firstSkill>Malefic Bomb</firstSkill>
+			<secondSkill>Void Projectile</secondSkill>
+			<thirdSkill>Destruction Rush</thirdSkill>
+		</skills>
+	</character>
+	<character id = "003">
+		<picture>https://i.pinimg.com/originals/f2/19/b8/f219b886f31aaddc9738e2507c6c22fc.jpg</picture>
+		<name>Lancelot</name>
+		<health>80</health>
+		<damage>180</damage>
+		<type>Assasin</type>
+		<skills>
+			<firstSkill>Puncture</firstSkill>
+			<secondSkill>Thorned Rose</secondSkill>
+			<thirdSkill>Phantom Execution</thirdSkill>
+		</skills>
+	</character>
+	<character id = "004">
+		<picture>https://i.pinimg.com/originals/75/3a/0f/753a0fe32bb9127ed494bd9c7296dd64.jpg</picture>
+		<name>Rafaela</name>
+		<health>200</health>
+		<damage>10</damage>
+		<type>Support</type>
+		<skills>
+			<firstSkill>Light of Retribution</firstSkill>
+			<secondSkill>Holy Healing</secondSkill>
+			<thirdSkill>Holy Baptism</thirdSkill>
+		</skills>
+	</character>
+	<character id = "005">
+		<picture>https://i.pinimg.com/originals/bc/5a/63/bc5a639f45c1c15e0af697de203f2e54.jpg</picture>
+		<name>Khufra</name>
+		<health>500</health>
+		<damage>10</damage>
+		<type>Tank</type>
+		<skills>
+			<firstSkill>Tyrant's Revenge</firstSkill>
+			<secondSkill>Bouncing Ball</secondSkill>
+			<thirdSkill>Tyrant's Rage</thirdSkill>
+		</skills>
+	</character>
+	<character id = "006">
+		<picture>https://i.pinimg.com/564x/a0/6a/86/a06a86c29d4e1e1ca7cf3ec2bf35c38c.jpg</picture>
+		<name>Gusion</name>
+		<health>80</health>
+		<damage>150</damage>
+		<type>Assasin</type>
+		<skills>
+			<firstSkill>Sword Spike</firstSkill>
+			<secondSkill>ShadowBlade Slaughter</secondSkill>
+			<thirdSkill>Incandescence</thirdSkill>
+		</skills>
+	</character>
+	<character id = "007">
+		<picture>https://i.pinimg.com/736x/94/85/08/9485085ffc4a48343268c32375044451.jpg</picture>
+		<name>Kadita</name>
+		<health>60</health>
+		<damage>80</damage>
+		<type>Mage</type>
+		<skills>
+			<firstSkill>Ocean Ode</firstSkill>
+			<secondSkill>Breath of the ocean</secondSkill>
+			<thirdSkill>Rough Waves</thirdSkill>
+		</skills>
+	</character>
+	<character id = "008">
+		<picture>https://i.pinimg.com/236x/6b/a9/87/6ba987b405928b555a8422a44d6cc18d.jpg</picture>
+		<name>Zilong</name>
+		<health>200</health>
+		<damage>30</damage>
+		<type>Fighter</type>
+		<skills>
+			<firstSkill>Spear Flip</firstSkill>
+			<secondSkill>Spear Strike</secondSkill>
+			<thirdSkill>Supreme Warrior</thirdSkill>
+		</skills>
+	</character>
+	<character id = "009">
+		<picture>https://i.pinimg.com/736x/d1/de/75/d1de75a0dc102dfae7a126c763ec7638.jpg</picture>
+		<name>Miya</name>
+		<health>40</health>
+		<damage>100</damage>
+		<type>Marksman</type>
+		<skills>
+			<firstSkill>Moon Arrow</firstSkill>
+			<secondSkill>Arrow of Eclipse</secondSkill>
+			<thirdSkill>Hidden Moonlight</thirdSkill>
+		</skills>
+	</character>
+	<character id = "010">
+		<picture>https://i.pinimg.com/736x/10/74/70/107470b5099b2af4949cbbdb64e8f514.jpg</picture>
+		<name>Novaria</name>
+		<health>40</health>
+		<damage>120</damage>
+		<type>Mage</type>
+		<skills>
+			<firstSkill>Astral Meteor</firstSkill>
+			<secondSkill>Astral Recall</secondSkill>
+			<thirdSkill>Astral Echo</thirdSkill>
+		</skills>
+	</character>
+	<character id = "011">
+		<picture>https://i.pinimg.com/736x/fa/4f/fa/fa4ffa1986cff979fbe3bde8384b9a9b.jpg</picture>
+		<name>Guinevere</name>
+		<health>80</health>
+		<damage>100</damage>
+		<type>Fighter</type>
+		<skills>
+			<firstSkill>Energy Wave</firstSkill>
+			<secondSkill>Spatial Migration</secondSkill>
+			<thirdSkill>Violet Requiem</thirdSkill>
+		</skills>
+	</character>
+	<character id = "012">
+		<picture>https://i.pinimg.com/736x/a5/ac/5b/a5ac5b85ff34afaf0dbbcd62511c339a.jpg</picture>
+		<name>Franco</name>
+		<health>300</health>
+		<damage>20</damage>
+		<type>Tank</type>
+		<skills>
+			<firstSkill>Iron Hook</firstSkill>
+			<secondSkill>Fury Shot</secondSkill>
+			<thirdSkill>Bloody Hunt</thirdSkill>
+		</skills>
+	</character>
+	<character id = "013">
+		<picture>https://i.pinimg.com/736x/38/d4/85/38d485cd215ff007670a7e0a038f20f1.jpg</picture>
+		<name>WanWan</name>
+		<health>150</health>
+		<damage>60</damage>
+		<type>Marksman</type>
+		<skills>
+			<firstSkill>Shallows Path</firstSkill>
+			<secondSkill>Needles in Flowers</secondSkill>
+			<thirdSkill>Crossbow of the tang</thirdSkill>
+		</skills>
+	</character>
+	<character id = "014">
+		<picture>https://i.pinimg.com/1200x/8c/22/bc/8c22bc22e2f646157fb2162642fb7c79.jpg</picture>
+		<name>Hanabi</name>
+		<health>90</health>
+		<damage>130</damage>
+		<type>Marksman</type>
+		<skills>
+			<firstSkill>Equinox</firstSkill>
+			<secondSkill>Soul Scroll</secondSkill>
+			<thirdSkill>Higanbana</thirdSkill>
+		</skills>
+	</character>
+	<character id = "015">
+		<picture>https://i.pinimg.com/736x/e2/49/9f/e2499f1f94ab4e2b43ffa5034584c696.jpg</picture>
+		<name>Hayabusa</name>
+		<health>70</health>
+		<damage>200</damage>
+		<type>Assasin</type>
+		<skills>
+			<firstSkill>Phantom Shuriken</firstSkill>
+			<secondSkill>Quad Shadow</secondSkill>
+			<thirdSkill>Shadow Kill</thirdSkill>
+		</skills>
+	</character>
+	<character id = "016">
+		<picture>https://i.pinimg.com/736x/d2/40/50/d24050e189772f5f0e8d5f2094225658.jpg</picture>
+		<name>Nana</name>
+		<health>120</health>
+		<damage>70</damage>
+		<type>Mage</type>
+		<skills>
+			<firstSkill>Magic Boomerang</firstSkill>
+			<secondSkill>Molina Smooch</secondSkill>
+			<thirdSkill>Molina Blitz</thirdSkill>
+		</skills>
+	</character>
+	<character id = "017">
+		<picture>https://i.pinimg.com/originals/00/84/2e/00842e23d72e0f9301a00bad6e0de9ae.jpg</picture>
+		<name>Chou</name>
+		<health>150</health>
+		<damage>80</damage>
+		<type>Fighter</type>
+		<skills>
+			<firstSkill>Jeet kune do</firstSkill>
+			<secondSkill>Shunpo</secondSkill>
+			<thirdSkill>The Way of the Dragon</thirdSkill>
+		</skills>
+	</character>
+	<character id = "018">
+		<picture>https://i.pinimg.com/originals/e5/da/c6/e5dac6bdcc5c72769569a8207f532b0b.jpg</picture>
+		<name>Change</name>
+		<health>70</health>
+		<damage>120</damage>
+		<type>Mage</type>
+		<skills>
+			<firstSkill>Starmoon Shockwave</firstSkill>
+			<secondSkill>Crescent Moon</secondSkill>
+			<thirdSkill>Meteor Shower</thirdSkill>
+		</skills>
+	</character>
+	<character id = "019">
+		<picture>https://i.pinimg.com/736x/c7/ff/3c/c7ff3c63666823245ce1134ee640794e.jpg</picture>
+		<name>Tigreal</name>
+		<health>300</health>
+		<damage>20</damage>
+		<type>Tank</type>
+		<skills>
+			<firstSkill>Attack Wave</firstSkill>
+			<secondSkill>Sacred Hammer</secondSkill>
+			<thirdSkill>Implosion</thirdSkill>
+		</skills>
+	</character>
+	<character id = "020">
+		<picture>https://i.pinimg.com/736x/38/3b/2c/383b2c76fe22914c77fc0f3ab6f54dbe.jpg</picture>
+		<name>Kagura</name>
+		<health>80</health>
+		<damage>120</damage>
+		<type>Mage</type>
+		<skills>
+			<firstSkill>Seimei Umbrella Open</firstSkill>
+			<secondSkill>Rasho Umbrella Flee</secondSkill>
+			<thirdSkill>Yin Yang Overturn</thirdSkill>
+		</skills>
+	</character>
 </characters>

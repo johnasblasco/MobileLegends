@@ -11,19 +11,20 @@ body {
 }
 
 .heading {
-    font-size: 6rem;
+    font-size: 6.8rem;
     font-family: 'Orbitron', sans-serif;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 40px rgba(0, 0, 0, 0.5);
     animation: johnas 1s ease-in-out forwards;
-    animation-duration: 4s;
+    animation-duration: 5s;
   }
   
   @keyframes johnas {
-    0% { opacity: 0; color: red; }
-    25%  {opacity: 1; color: yellow;}
-    50%  {color: blue;}
-    100% { font-size: 8rem; color: green;}
+    0% { opacity: 0; color: #000000; filter: brightness(110%);}
+    25%  {opacity: 1; color: #FF8B00;}
+    50%  {color: #FFC60B;}
+    100% { font-size: 7rem; color: #EFD510; filter: brightness(200%); text-shadow: 10px 10px 40px 50px rgba(0, 0, 0, 0.5);}
   }
+
 table{
     font-size: larger;
 }
