@@ -2,7 +2,7 @@
 <characters>
   
   <character id = "001">
-    <picture>https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20231010042000</picture>
+    <picture>https://i.pinimg.com/originals/07/8e/d3/078ed3258b1b37c7535ec543ebccd51f.jpg</picture>
     <name>Fanny</name>
     <health>100</health>
     <damage>20</damage>
@@ -15,7 +15,7 @@
   </character>
 
   <character id = "002">
-    <picture>https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20240104090805</picture>
+    <picture>https://i.pinimg.com/736x/64/39/f5/6439f5134e63ec54e8cf7eaa2eec7fb9.jpg</picture>
     <name>Layla</name>
     <health>50</health>
     <damage>180</damage>
@@ -28,7 +28,7 @@
   </character>
 
   <character id = "003">
-    <picture>https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero181-portrait.png/revision/latest?cb=20240104090805</picture>
+    <picture>https://i.pinimg.com/originals/f2/19/b8/f219b886f31aaddc9738e2507c6c22fc.jpg</picture>
     <name>Lancelot</name>
     <health>80</health>
     <damage>180</damage>
@@ -41,7 +41,7 @@
   </character>
 
   <character id = "004">
-    <picture>https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero141-portrait.png/revision/latest?cb=20220525164605</picture>
+    <picture>https://i.pinimg.com/originals/75/3a/0f/753a0fe32bb9127ed494bd9c7296dd64.jpg</picture>
     <name>Rafaela</name>
     <health>200</health>
     <damage>10</damage>
@@ -54,7 +54,7 @@
   </character>
 
   <character id = "005">
-  <picture>https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png/revision/latest?cb=20240114021830</picture>
+  <picture>https://i.pinimg.com/originals/bc/5a/63/bc5a639f45c1c15e0af697de203f2e54.jpg</picture>
     <name>Khufra</name>
     <health>500</health>
     <damage>10</damage>
@@ -67,7 +67,7 @@
   </character>
 
   <character id = "006">
-  <picture>https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero561-portrait.png/revision/latest?cb=20220909095407</picture>
+  <picture>https://i.pinimg.com/564x/a0/6a/86/a06a86c29d4e1e1ca7cf3ec2bf35c38c.jpg</picture>
     <name>Gusion</name>
     <health>80</health>
     <damage>150</damage>
@@ -80,7 +80,7 @@
   </character>
 
   <character id = "007">
-  <picture>https://static.wikia.nocookie.net/mobile-legends/images/e/e8/Hero751-portrait.png/revision/latest?cb=20240121134111</picture>
+  <picture>https://i.pinimg.com/736x/94/85/08/9485085ffc4a48343268c32375044451.jpg</picture>
     <name>Kadita</name>
     <health>60</health>
     <damage>80</damage>
@@ -93,20 +93,20 @@
   </character>
 
   <character id = "008">
-  <picture>https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest?cb=20220525165744</picture>
-    <name>Thamuz</name>
+  <picture>https://i.pinimg.com/236x/6b/a9/87/6ba987b405928b555a8422a44d6cc18d.jpg</picture>
+    <name>Zilong</name>
     <health>200</health>
     <damage>30</damage>
     <type>Fighter</type>
     <skills>
-      <firstSkill>Molten Scythes</firstSkill>
-      <secondSkill>Chasm Trample</secondSkill>
-      <thirdSkill>Cauterant Inferno</thirdSkill>
+      <firstSkill>Spear Flip</firstSkill>
+      <secondSkill>Spear Strike</secondSkill>
+      <thirdSkill>Supreme Warrior</thirdSkill>
     </skills>
   </character>
 
   <character id = "009">
-  <picture>https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero011-portrait.png/revision/latest?cb=20231231181124</picture>
+  <picture>https://i.pinimg.com/736x/d1/de/75/d1de75a0dc102dfae7a126c763ec7638.jpg</picture>
     <name>Miya</name>
     <health>40</health>
     <damage>100</damage>
@@ -119,7 +119,7 @@
   </character>
 
   <character id = "010">
-  <picture>https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1191-portrait.png/revision/latest?cb=20230224151429</picture>
+  <picture>https://i.pinimg.com/736x/10/74/70/107470b5099b2af4949cbbdb64e8f514.jpg</picture>
     <name>Novaria</name>
     <health>40</health>
     <damage>120</damage>

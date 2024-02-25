@@ -7,10 +7,16 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <style>
         body {
-            padding-top: 100vh; /* Add padding equal to the height of the carousel */
-            margin: 0; /* Reset margin to ensure full width */
+            text-align: center;
+            padding-top: 100vh;
+            margin: 0;
         }
-   
+        table{
+            font-size: larger;
+        }
+        table img{
+            width: 150px;
+        }
         #carouselWithControls {
             height: 100vh;
             position: fixed;
@@ -19,20 +25,20 @@
             right: 0;
             bottom: 0;
             overflow: hidden;
-            z-index: 0; /* Push the carousel behind other content */
+            z-index: 0; 
         }
 
         .carousel-control-prev, .carousel-control-next {
-            font-size: 4rem;
+            font-size: 5rem;
             width: 50px;
             height: 50px;
             background-color: rgba(0, 0, 0, 0.3);
             border-radius: 50%;
-            top: 10%;
+            top: 50%;
             transform: translateY(-50%);
             margin: 0 5vw;
             padding: 10px;
-            z-index: 1; /* Ensure controls are above other content */
+            z-index: 1;
         }
 
         .carousel-control-prev-icon, .carousel-control-next-icon {
@@ -41,13 +47,15 @@
             height: 100%;
             background-repeat: no-repeat;
             background-position: center center;
-            background-size: 70%;
+            background-size: 90%;
             background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
         }
 
         .carousel-control-next-icon {
             background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
         }
+
+
 
         /* Adjust the position of the content */
         .content {
@@ -71,18 +79,35 @@
             <img src="Assets/fanny.jpg" class="d-block w-100" alt="Slide 2">
           </div>
           <div class="carousel-item">
-            <img src="Assets/floryn.jpg" class="d-block w-100" alt="Slide 3">
+            <img src="Assets/luyi.jpg" class="d-block w-100" alt="Slide 3">
           </div>
           <div class="carousel-item">
             <img src = "Assets/guin.jpg" class="d-block w-100" alt="Slide 4">
           </div>
           <div class="carousel-item">
-            <img src = "Assets/mathilda.jpg" class="d-block w-100" alt="Slide 5">
+            <img src = "Assets/change.jpg" class="d-block w-100" alt="Slide 5">
           </div>
           <div class="carousel-item">
             <img src="Assets/rafaela.jpg" class="d-block w-100" alt="Slide 6">
           </div>
+        <div class="carousel-item">
+            <img src="Assets/angela.jpg" class="d-block w-100" alt="Slide 7">
+          </div>
+        <div class="carousel-item">
+            <img src="Assets/mathilda.jpg" class="d-block w-100" alt="Slide 8">
+          </div>
+        <div class="carousel-item">
+            <img src="Assets/floryn.jpg" class="d-block w-100" alt="Slide 9">
+          </div>
+        <div class="carousel-item">
+            <img src="Assets/miya.jpg" class="d-block w-100" alt="Slide 10">
+          </div>
+        <div class="carousel-item">
+            <img src="Assets/mlbb1.jpg" class="d-block w-100" alt="Slide 11">
+          </div>
         </div>
+    </div>
+    
         <a class="carousel-control-prev" href="#carouselWithControls" role="button" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
@@ -95,9 +120,9 @@
 
     <!-- Content below the carousel -->
     <div class="content" id="content">
-        <h1 class="mb-5 text-center fw-bold">Welcome to Mobile Legends</h1>
-        <p class="lead text-center">Five Seconds Five seconds to enemy reaches the battlefield, smash them All troops deployed</p>
-        <table id="tblCharacters" class="table table-hover table-bordered">
+        <h1 class="mb-5 text-center fw-bolder">Welcome to Mobile Legends</h1>
+        <p class="lead text-center badge bg-primary text-wrap p-3 fs-5">Five seconds to enemy reaches the battlefield, smash them! All troops deployed</p>
+        <table id="tblCharacters" class="table table-hover table-borderless">
             <thead class="thead-dark">
                 <tr>
                     <th>character ID</th>
@@ -122,10 +147,10 @@
         window.addEventListener('scroll', function() {
             let content = document.getElementById('content');
             let distanceFromTop = content.getBoundingClientRect().top;
-            if (distanceFromTop <= window.innerHeight * 0.75) {
-                content.style.opacity = 1; // Show the content when scrolled to
+            if (distanceFromTop <= window.innerHeight * 0.85) {
+                content.style.opacity = 1;
             } else {
-                content.style.opacity = 0; // Hide the content when not scrolled to
+                content.style.opacity = 0;
             }
         });
 
